@@ -6,5 +6,7 @@ Copy all above css, js and html codes and paste them in your site main page or w
 Just drag your mouse and use left click to start the fan. That's it your lion will be happy now :)
 #Important Note
 Must add these two external javascript files
-  //cdnjs.cloudflare.com/ajax/libs/three.js/r70/three.min.js
-  https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/OrbitControls.js
+```groovy
+//cdnjs.cloudflare.com/ajax/libs/three.js/r70/three.min.js
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/OrbitControls.js
+```
